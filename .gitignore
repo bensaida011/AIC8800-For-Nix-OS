@@ -1,0 +1,5 @@
+# Upstream driver sources; pinned by rev in nix/aic8800.nix
+/src/
+
+# nixos-rebuild build output symlink
+/result
